@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/a_agreement.xml" value="0.5229826353421859" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/a_bill_pay.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/a_customer_service.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/a_feedback.xml" value="0.4528302049755674" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/a_home.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/a_mine.xml" value="0.34765625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/a_recovery_pay.xml" value="0.4528302049755674" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/a_setting.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/a_wechat_doc_recovery.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/a_wechat_recovery_tips.xml" value="0.2203125" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/a_wechat_video_recovery.xml" value="0.34765625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/a_wechat_voice_recovery.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/activity_splash.xml" value="0.5" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/banner.xml" value="0.2203125" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/d_quit.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/f_home.xml" value="0.2988679352838745" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/item_doc.xml" value="0.4401041666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/item_function.xml" value="0.5333333333333333" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/item_heart.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/item_voice.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/layout_title.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/pics_detail.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/video_detail.xml" value="0.5333333333333333" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/app/src/main/res/layout/voice_detail.xml" value="0.34765625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/kefu-easeui/src/main/res/drawable/hd_chatfrom_bg.xml" value="0.4828125" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/kefu-easeui/src/main/res/layout/hd_fragment_chat.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/kefu-easeui/src/main/res/layout/hd_layout_chat_primary_menu.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/kefu-easeui/src/main/res/layout/hd_row_received_menu.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/kefu-easeui/src/main/res/layout/hd_row_received_message.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/kefu-easeui/src/main/res/layout/hd_row_sent_message.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/kefu-easeui/src/main/res/layout/hd_row_sent_picture.xml" value="0.4625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JxTools-C/kefu-easeui/src/main/res/layout/hd_widget_title_bar.xml" value="0.4625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
